@@ -1,0 +1,24 @@
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Accenture Wins Norway EHR Deal Fri Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Ahead of Wall Street - October 16 2012 Tue Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Apples Earnings Miss Is it priced in Mon Oct 2.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/BMCs 2Q EPS Beats by a Penny Fri Nov.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/BMC Wins Swisscom Deal Tue Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Compuware Chosen by OST Fri Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Compuware Enhances SaaS Platform Mon Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Do Tech Sector Earnings Worry You Wed Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Earnings Preview CA Inc Wed Oct 2.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/EMC Misses 3Q Estimates Wed Oct 2.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/IBM Misses Shares Take a Hit Tue Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/IBM Reports Lackluster 3Q Wed Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Ingram Beats Outlook Cautious Mon Oct 2.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Mellanox Reports Strong 3Q Thu Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Mixed 2Q for CA Guides Lower Fri Oct 2.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/OnSemis New Devices for PCIe Wed Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Quantum Continues to Incur Loss Wed Oct 3.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/SolarWinds Beats Estimates Mon Oct 2.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Stock Market News for October 19 2012 Fri Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Taking Stock of the Q3 Earnings season Wed Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/The Zacks Analyst Blog Highlights IBM Hewlett-Packard Intel Marathon Oil and Marathon Petroleum Wed Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/The Zacks Analyst Blog Highlights IBM Oracle Hewlett-Packard Microsoft and EMC Mon Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Which Sectors Are Still Safe Wed Oct 2.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Zacks Earnings Preview JP Morgan Wells Fargo Google IBM and Johnson amp Johnson Mon Oct 1.txt

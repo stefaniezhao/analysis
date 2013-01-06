@@ -1,0 +1,635 @@
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Accenture Wins Norway EHR Deal Fri Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Ahead of Wall Street - October 16 2012 Tue Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Apples Earnings Miss Is it priced in Mon Oct 2.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/BMCs 2Q EPS Beats by a Penny Fri Nov.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/BMC Wins Swisscom Deal Tue Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Compuware Chosen by OST Fri Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Compuware Enhances SaaS Platform Mon Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Do Tech Sector Earnings Worry You Wed Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Earnings Preview CA Inc Wed Oct 2.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/EMC Misses 3Q Estimates Wed Oct 2.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/IBM Misses Shares Take a Hit Tue Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/IBM Reports Lackluster 3Q Wed Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Ingram Beats Outlook Cautious Mon Oct 2.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Mellanox Reports Strong 3Q Thu Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Mixed 2Q for CA Guides Lower Fri Oct 2.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/OnSemis New Devices for PCIe Wed Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Quantum Continues to Incur Loss Wed Oct 3.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/SolarWinds Beats Estimates Mon Oct 2.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Stock Market News for October 19 2012 Fri Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Taking Stock of the Q3 Earnings season Wed Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/The Zacks Analyst Blog Highlights IBM Hewlett-Packard Intel Marathon Oil and Marathon Petroleum Wed Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/The Zacks Analyst Blog Highlights IBM Oracle Hewlett-Packard Microsoft and EMC Mon Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Which Sectors Are Still Safe Wed Oct 2.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/blog/Zacks Earnings Preview JP Morgan Wells Fargo Google IBM and Johnson amp Johnson Mon Oct 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/3 Big Winners and 1 Loser Moving the Dow Today.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/Accenture Wraps Octagon Buyout.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/Another Big Data Growth Area in Tech.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/Apple weighs on techs Oracle IBM H-P rise.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/Bernanke Breaks the Dow.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/BMC Software Explores Potential Sale.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/BMC Software seeking to sell itself WSJ.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/Buckley Capital Thinks Splunk Is a Sell.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/Compuware Enhances its Services.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/Disappointing Earnings Season Ahead Pro.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/Goldman Sachs Upbeat About Commodities and 4 Hot Stocks Buzzing on The Street.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/HP Introduces ElitePad 900 Tablet and 3 Dow Movers to Track.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/IBM Estimates Boosted and 4 Stock Analyses Making Headlines Now.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/IBM Leads Several Big-Cap Stocks To New Highs.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/IBM stock hits all-time high.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/Is Texas Instruments a Good Stock to Buy.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/Its Time to Buy This IT Company.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/Splunk shares dive as fund manager issues stinging critique.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/Stocks Improve From Mixed Territory Catamaran Flirts With 100 Again.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/Stocks Start Firm But Fizzle To Mixed Finish Volume Rises.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/The Future Lies In the Cloud.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/These Stocks Pulled the Dow Up.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/US Stocks Rise on Better-Than-Forecast Manufacturing.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/Waiting for HPs Next Shoe to Drop.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-01/What I Learned at the Cloud Computing Revolution.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/Accenture Boosts Video Capabilities.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/A Clash of Titans Over a Lucrative Corner of the Mortgage Market.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/Attempting to Buy the Cloud.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/Broader Market Struggle for Direction Dow Falls.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/Chinese Company Jolts US Jobs Market.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/Coke Hasnt Sat Back During the Global Crisis CEO.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/Dividend Payer IBM Doing OK Despite Drag From Europe.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/Ginni Rometty Forget corporate strategy ask me what I believe.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/Has Big Blues Big Rebound Finally Failed the Dow.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/Hewlett-Packard Wait For The Turnaround.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/HPs profitable printers to buy Whitman time.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/HP Steps Up SDN Strategy.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/HSBC Plans Biffa Seizure and 4 Stocks Enjoying 52-Week Highs.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/Lenovo to Set Up PC Plant in US.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/Merger and Acquisitions IBM Might Bid For ResCap Mortgage Assets.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/NetSuite Announces Two-Tier ERP For Oracle.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/Oracle CEO Larry Ellison Talks More About the Cloud.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/Salesforcecom Dell Win Western Express Business.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/Splunk Gets Punked Is the Sell-Off Deserved.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/This Company Is The Definition Of Technological Moat.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/Three Ways To Turn Around A Tech Juggernaut Now Facing Extinction.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/video Chinese Company Jolts US Jobs Market.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-02/video Tech Has Rocky Start to Quarter.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/4-Star Stocks Poised to Pop IBM.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/6 Favorite October Tech Stocks To Buy And Hedge.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/7 Questions for Steve Jobs and Big Data.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/Best of Most Powerful Women Summit Day One.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/BMC Serves PrimeLending.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/Cornerstone Grows And Stock Up 65 For Year.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/Dyns 70 Growth Attracts 38 Million Investment.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/Five Stocks With Extraordinary Profitability.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/GAO upholds IBM protest of 543M award to HP Bloomberg says.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/Hewlett-Packard Faces Long Odds.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/HP 2013 View Even Worse Than Expected Stock At 9-Year Low.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/HP Another Reason Our Stock Imploded.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/HP CEOs turnaround message flops on Wall Street.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/HP Shares Tumble on Dismal 2013 Outlook.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/HPs outlook disappoints driving shares to 9-year low.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/HPs outlook disappoints driving shares to nine-year low.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/HPs Whitman Sees a Tough 2013 as Company Turnaround Effort Continues.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/IBM Wins Protest Against H-P Government Contract.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/IBM Wins Protest of 543 Million Award to Hewlett-Packard.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/Key moments in Hewlett-Packards recent history.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/The Zacks Analyst Blog Highlights UnitedHealth Group Accenture Nokia Siemens and IBM.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/UPDATE 1-HPs 2013 outlook falls flat shares near 9-year low.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/UPDATE 2-HPs 2013 outlook disappoints shares near 9-year low.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/UPDATE 4-HPs outlook disappoints driving shares to 9-year low.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-03/video Cramer HP Should Sell Personal Computer Unit.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/Analysts cut price targets on HP see slow turnaround.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/Can This Consulting Company Deliver.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/Could Fee Wars Skip Some ETFs.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/Dow Today Chevron CVX Leads The Day Higher International Business Machines IBM Lags.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/How Jobs Drive the Dow.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/HP Beware of the 5-Year Hangover.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/HPs outlook disappoints shares hit nine-year low.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/H-Ps services meltdown offers no easy fix.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/H-P Woes Are All Very Fixable CEO Whitman Tells CNBC.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/IBM Analytics Seeds International Growth for Delegats Wine Estate.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/Kwality Dairy Selects IBM Cloud to Drive Supply Chain Efficiencies.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/Microsoft And IBM As Alternatives To Oracle.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/Oracle Can Continue to Grow With Data and Cloud CFO Says.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/RIM Aint Dead Just Yet.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/Tech Biz Replay IBM Wins Contract Reversal Apple Slammed By Analyst.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/The IBM Thinkpad Turns 20 Does It Have 20 More.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/This Stock is a Cash Machine.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/Unisys Secures Royal DSM Contract.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/What Are the Worlds 5 Most Valuable Brands.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/Whitmans HP Turnaround Plan Sends Shares to 10-Year Low Tech.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-04/Why the Dow Tech Stocks Are Tanking.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/10 Reasons You Must Be In Large And Mega Cap Dividend Stocks.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/30000-Foot View of the SampP 500.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/3M and Avery Dennison Terminate Agreement and 3 Dow Movers to Track.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/Escape Fire Documentary Solutions to Healthcares Conflagration.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/Examining Another Dividend-Growth Large-Cap Fallacy.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/Five Dividend Plays in the Tech Sector.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/Hewlett-Packard An Opportunity Play On A Turnaround Plan.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/Hewlett-Packard Ready For A Modest Rebound.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/Hey Neutron Jack Quit The Conspiracy Talk The Jobs Report Is Pretty Bad.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/How to Analyze and Trade a Butterfly.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/H-P missed the boat Whitman cant change that.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/HP Projects Dull 2013.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/HP Put The Down In Downbeat.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/Market Surges on Jobs Report.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/NVIDIA Helps Build Robotic Honeybees.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/Ocwen Considers Yet Another Buy.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/REPLAY LINK October 3 VIX On Five Highly Active Stocks.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/Riches to Rags 10 Stars of Business and Finance Who Lost Billions.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/Should Investors Disregard Recent Upgrade Of Informatica.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/video Stocks End Mixed Despite Upbeat Jobs Data.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/Wheres the Shareholder Outrage at Hewlett-Packard.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/Why You Should Keep an Eye on This Years Elections.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-05/Will Hewlett Packard Ever Win Under Whitman.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-06/Apples Big Brand.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-06/Down The Digital Rabbit Hole As We Automate Everything.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-06/Intels Upcoming Q3 Earnings Report What You Need To Know.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-06/Multiple Benefits Create Opportune Time To Buy EMC.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-06/NYTs Nate Silver Reveals How Economists Miss Recessions.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-07/iPad Mini Production Possibly Underway Microsoft Making Its Move in Smartphone Market Weekly Tech Business Recap.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-07/RPT-Shopping or browsing on Main St Indias Big Data firms know.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-07/Shopping or browsing on Main St Indias Big Data firms know.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-07/Should Lenovo Buy Hewlett-Packard.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/3 Dow Stocks to Keep Your Eyes On.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/500 Growth Makes Actifio Historys Swiftest Storage Start-up.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/5 Rocket Stocks to Buy in October.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/5 things business can teach Washington.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/Analyst Its time to break up HP into 2 companies.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/Apple Facebook lead tech losses Netflix rises.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/ATampT IBM plan joint venture to offer cloud services.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/CIOs Can Help Government Restructure.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/Dow Today American Express AXP Leads The Day Higher International Business Machines IBM Lags.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/Hewlett-Packard Worth More Split Up UBS Analyst.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/HP Why Bill And Dave Would Back A Break-Up Plan.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/IBMs Project Sparta Is Now Named PureData.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/IBM Taps Converged Data Computing With New Products.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/Is HP Cheap Now.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/Lessons for Tech Giants.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/Microsoft Is Still An Attractive Option For Long-Term And Dividend Investors.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/Opportunities To Play The Explosive Growth Of Big Data.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/Split Dell And HP At Your Peril.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/St John Selects Compuware.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/Tech Sector Stars Stocks Soar.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/The Marketing Executive Who Became a Voice Actor.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/video Tech Sector Stars Stocks Soar.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/video The Coal Comeback Trade.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/Wall Street Transcript Interview with Arthur W Zafiropoulo the Chairman CEO and President of Ultratech Inc UTEK.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-08/Why America Is Really Worried About Huawei.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/Accenture Banco Extend Ties.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/Alcoa Kicks Off Earnings Netflix IBM-ATampT Cloud.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/Analyst Moves IBM LLY.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/Analysts Actions AAPL CAT DELL IBM HPQ.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/Apple Choice of IPhone Aluminum Said to Slow Down Output.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/ATampT IBM Share Network to Lure More Customers to Cloud.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/BMC Continues Winning Deals.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/Dell HP Lexmark Sell Them All Buy IBM Citi Analyst Says.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/Does IBM Have Room to Run.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/Dow Today Boeing BA Leads The Day Higher International Business Machines IBM Lags.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/IBM ATampT Set Up Cloud Computing Service.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/IBM Expands Operations in Brazil with Three New Branches.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/IBM Opens Three New Branches in ASEAN.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/Is HP the Next Nokia.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/Ivanhoиж Cambridge buys more Silicon Valley apartment buildings.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/Managed Service Providers in Key Markets Adopting IBM PureSystems to Grow Business.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/Maynard Webbs Journey From Florida to the Epicenter of Innovation.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/Morning Read IMF Says The Obvious About Global Growth.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/New Stock Coverage Avoid Apple Picking This Fall.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/The 5 Best Global Brands.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/The Future of the American Farm Robots.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/The Real Problem With 401ks.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/video Does IBM Have Room to Run.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/Workday Raises Share Price Range Ahead of Imminent IPO Nears 5 Billion Valuation.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-09/Zynga Sees New Lows and 3 Dow Movers to Eye.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/audio Earningselections fiscal cliff wont hurt market.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/Buy Cisco Now Before This Happens.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/Firms Drop Billions to Enter Fast-Growing Algorithm Hiring Market.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/Forbes Earnings Preview International Business Machines.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/H-P No Longer Worlds Top PC Maker.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/IBMs Brazil Expansion Continues.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/IBM Takes Cloud Security Keys To ATampT Global Network.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/IBM Third Quarter Earnings Preview.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/IT Service Firms To Boost A Dividend Growth Portfolio.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/Lenovo knocks HP from top of global PC market Gartner.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/Microsoft Increases Dividend By 15.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/NY is the Epicenter of Healthcares Reinvention.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/Tech Earnings Outlook Cautious Headed Into Q3 Reports.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/The Dow Breaks 2 Bears in 1 Day.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/Three Dividend Stocks Owned by the Smart Money.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/US Loses PC Lead To Chinas Lenovo HP Falls.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/Where Are These Key Companies Headed Into And Out Of Earnings.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-11/Workday Prices Public Offering at 28 a Share.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/30000-Foot View of the SampP 500 and a Review of IBM Intel Ahead of Earnings.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/Accenture Wins Norway EHR Deal.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/Analytics Is The Key to Spurring Growth at Genpact.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/Boring industrial company trounces tech stocks.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/Can International Business Machines Beat These Numbers.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/Can Oracle Thrive In Cloud Computing.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/Compuware Chosen by OST.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/Dow Today International Business Machines IBM Leads The Day Higher Chevron CVX Lags.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/Earnings Preview IBM.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/Global Week Ahead 1012-1019 Debate EU Talks Audio.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/How the Internet of Things Will Change Your World.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/IBM books 160 million pension-related fee in third quarter.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/IBM Earnings Preview Old Tech Giant Should Report Decent Quarter.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/IBM Slipping From 52-Week High Ahead Of 3Q 2012 Earnings.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/INTERNATIONAL BUSINESS MACHINES CORP Files SEC form 8-K Other Events.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/Meet the Company Thats Outgrowing Apple.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/Mellanox Can It Pull Off Another Big Beat In Q3.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/Next Weeks Market-Moving Events.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/Shares of Workday closed up 74 percent in trading debut.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/The Networked Cloud.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/UPDATE 1-IBM books 160 mln pension-related fee in third quarter.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/video Earnings Calender Tech amp Banks.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/What My Father Taught Me about Being an Entrepreneur.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/Which Stocks Look Ready to Pop and Drop with Earnings Next Week.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-12/Would Apple leave Intel.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-13/13D Filings.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-13/Almost There.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-13/Apple and Lenovo Avoid Rapid Plunge in PC Market.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-13/Do Not Track Advertisers Say Dont Tread on Us.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-13/GE Partner Powers Up in Australia and 3 Dow Spotlight Stocks.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-13/More Doom and Gloom for Global PC Market.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-13/Wall Street Transcript Interview with Robin Raina President and Chief Executive Officer of Ebix Inc EBIX.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-14/9 Financial Rules You Should Never Forget.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-14/Economic Reports for the Week Ahead.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-14/Google Wants to Join the Party Not Crash It.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-14/Is EMC a Good Stock to Buy.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-14/video Investors Await Retail Sales Earnings From Citigroup Google.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/2-Star Stocks Poised to Plunge AMD.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/AAPL Vs GOOG The Case for a Long-Term Investment.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/All-Time Highs Almost There.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/Another Late Fade for Stocks.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/Building An Election Portfolio.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/Citigroup Kicks Off Busy Earnings Week.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/Compuware Enhances SaaS Platform.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/Cramers Earnings Preview for Tuesday.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/Cramer You Need to Buy IBM Google and These 3 Performers Today.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/Dow Today International Business Machines IBM Leads The Day Higher American Express AXP Lags.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/Grisanti What to Watch This Week - Futures Now.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/Handicapping Tuesdays Earnings Reports.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/Has Brocade Communications Become the Perfect Stock.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/How Hard Will FTC Hit Google.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/How to Profit While Traders Flee HPs Stock.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/IBM Analyst Sees 243 Target and 4 Stock Ratings to Review Now.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/IBM Revenue Seen Falling Earnings Rising For Q3.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/Intel Vs IBM Earnings Pros Take Positions.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/Market Preview Beware Corporate Sellouts.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/Minyanvilles T3 Daily Recap Market Shows Signs of Life.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/UPDATE 4-Cemex sees weaker volumes eyes Colombia listing soon.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/video Cyber Pearl Harbor Ahead.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/video Intel vs IBM Earnings Pros Take Positions.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/What Many People Are Missing About HP.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-15/Which Stocks Look Ready to Surge or Sink After Earnings This Week.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/Apollo Group Intel After-Hours Trading Update 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/audio Radio Update Stocks post second straight win.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/BRIEF-IBM sees mid-single digit software hardware performance in Q4.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/Full Speed Ahead Stocks May Top 2012 Highs.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/IBM Intel give weak start to tech earnings.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/IBM Misses Revenue Estimates Goldman Sachs Falls.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/IBM Misses Shares Take a Hit.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/IBM Revenue Drop May Signal Cuts by Firms.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/IBM Revenue Falls Short With Weaker Euro Hardware Sales.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/IBM revenue hurt by strong dollar tight IT budgets.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/IBM Revenue Misses Expectations For Q3 Shares Down.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/IBMs 3Q earnings flat revenue slides 5 percent.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/IBM Sales Fall Short of Analyst Estimates.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/IBM Shares Slip on Revenue Miss Update 1.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/IBMs Revenue Misses Again Shares Drop.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/Intel IBM Report Earnings.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/Intel IBM shares turn red after hours.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/International Business Machines Third Quarter Earnings Report.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/Late Movers Citigroup CEO Jumps Ship Intel and IBM Sink After Earnings.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/Market Preview Whos Afraid of the Fiscal Cliff.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/On the Call IBM CFO Mark Loughridge.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/UPDATE 1-IBM third-quarter revenue hurt by strong dollar.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/Update IBM Falls On Mixed Q3 Light Guidance.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/Updates advisories and surprises.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-16/US STOCKS-Wall St jumps on strong results IBM Intel off late.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/Africa Asia May Face Food Shortages by 2050 Group Says.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/Analysis How long can Googles shares stay airborne.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/Bullish Dow Tamed by Earnings Misses.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/CIOs Come Out of the Back Office with Big Data.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/Dow Rises for Fourth Straight Day.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/Earnings Data Could Send Markets Closer to High Water Mark.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/How These Stocks Saved the Dow Today.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/IBM And The Cloud Danger And Opportunity.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/IBM Falls 5 Trouble Ahead in Tech.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/IBM Intel results weigh down tech stocks.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/IBMs Limited Margin for Error.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/IBMs Services Units Struggle For Growth As Quicker Rivals Like Accenture Rise.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/Intel Dean Foods PulteGroup are market movers.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/Knight Plans for Worst and Hopes for Best.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/Mellanox Stock Tumbles On Disappointing Guidance.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/Sales stumbles raise fresh worry for corporate America.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/SampP 500 gets housing lift but IBM reins in the Dow.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/Stocks and ETFs Struggle to Breakout.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/This Is the Reason the SampP 500 Rose Decisively For a 3rd Straight Session.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/This Just In More Upgrades and Downgrades.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/This Stock Scuppered the Dow.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/US Stock Market Wrap.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/video Siegel Housing Starts Data Confirms Real Recovery.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/Why the Dow Soared Today.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-17/WRAPUP 2-Sales stumbles raise fresh worry for corporate America.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/CIOs Are Slow to Adopt Web-based Development Platforms.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/Colombian regulator OKs share listing of Cemex unit.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/Daily Wrap 101812.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/EMC CommVault And NetSuite Are Leaders In Software.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/Facebook Fiasco The Stock Is 50 Below Its IPO Price Again.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/General Motors Takes IT In-House Hires 3000 HP Employees as Its Own.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/Googles Larry Page Finds His Voice Mobile Revenues Top 8B.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/IBM Reportedly in Talks to Buy Israel Mobile Software Firm Red Bend.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/IBM Shares Cross Below 200 DMA.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/Markets Decline After Google Flubs Earnings Release.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/Meet the New Yorker Who Sued to Stop DOMA.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/Microsoft profit slips as PCs fizzle Windows 8 awaited.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/PHILIPPINES PRESS-IBM puts up BPO facility in Philippines - Inquirer.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/Stocks End Lower Led by Techs Google Skids.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/Stocks tumble as Google disappoints.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/UPDATE 1-Colombian regulator OKs share listing of Cemex unit.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/UPDATE 2-Microsoft profit slips more than expected as PCs fizzle.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/UPDATE 3-Microsoft profit slips as PCs fizzle Windows 8 awaited.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/US stock-market fall hardened by Google.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/video Google Falls on Early Earnings.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/What Pulled the Dow Down Today.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/Why I Still Believe in IBM.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/Why the Dow Fell Today.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/Why the Dows Jumping Around Today.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-18/Why The Dow Was Flat.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/1 Big Reason Stay Away From Big Data Stocks -- for Now.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/3Q GDP Should Outpace Measly Expectations.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/A look at IBMs Q3.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Billionaire Ken Fishers Top 5 Stock Picks.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Blindsided by QE Why Global Investors Cant See Geopolitical Threats that May Drive Markets Sharply Lower.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Dow down 200 as weak earnings drag market lower.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Dow down 205 as weak earnings drag market lower.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Factbox The 1987 Crash by the numbers.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Google May Signal Trouble in Mobile Analyst.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Google Stock Falls After Q3 Earnings Disappoint.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Hard Slog Ahead for Microsoft.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Nationstar Ocwen and Walter fight over ResCap sources.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Seven Questions for Dell Enterprise Head Marius Haas and Software Head John Swainson.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Stocks Hit Session Lows Tech Stocks Walloped Again.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Stocks Log Worst Day Since June Dow Falls 200.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Tech Business Update Dell Joins Others In Box Development Yahoo Exits Korea.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Tech buys and sells.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Tech Earnings Show Accelerating Shift Into Mobile.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Technology Outlook Weakens Amid Third-Quarter Reports.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/The Truth About the Postal Services Fiscal Cliff.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/UPDATE 2-Nationstar Ocwen and Walter fight over ResCap-sources.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/video Stocks That Could Feel Currency Whiplash.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Wall Street Week Ahead Investors face earnings blitz with dread.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Why AMD Shares Short-Circuited.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-19/Will negative earnings start to matter.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-20/5 Reasons Apple Cant Save You Now.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-20/Falling Revenue Dings Stocks.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-20/How Earnings Moved the Dow Last Week.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-20/Microsoft Surface Details Google Drama Weekly Tech Business Recap.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-20/Review.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-20/Wait Till Next Year.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/4 Great Dividend Stocks On Sale.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/5 Tech Firms That Are Hurting Badly.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Apples Earnings Miss Is it priced in.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Avoid These 5 Dividend Stocks.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Big Data Is Faster and Cheaper But Not New Or Revolutionary - IBM.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Black Friday Earnings Reports.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Caterpillar Fails To Derail Market Rebound.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Earnings Weigh on Wall Street Rewind 1019.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Fast Tech 25.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Gartner 10 Critical Tech Trends For The Next Five Years.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Gartner Announces 2012 Magic Quadrant for Cloud Infrastructure as a Service.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/IBM Helps Organizations Tackle Industry Specific Big Data Challenges.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Is the Party Ending for Stocks.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/IT Spending to Reach 37 Triiilllion Dollars by 2013 Gartner Predicts.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Ken Fishers Six Stock Picks.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Large Companies Are Barely Growing.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/NajarianMalandrino WEBINAR Our Best Ideas video.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/RTP Research Triangle Primer.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Schwartz Pivotal Week Ahead.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/SED International appoints Robert OMalley president and CEO.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Survey Recognizes IBM as Greenest Company in US.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Tech Stocks Black Hole.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Tech Wreck signals tectonic rotation.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Volterra forecasts weak fourth quarter shares slip.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-22/Will IBMs Bet On A Realigned Jobs Market Be Its Undoing.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/4 tech war horses to avoid.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/4 tech war horses to avoid.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/8 Stocks With Strong Dividend Growth Metrics.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/8 Stocks With Strong Dividend Growth Metrics.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Cameron Says Companies to Look at Helping Suppliers Get Credit.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Cameron Says Companies to Look at Helping Suppliers Get Credit.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Caterpillar Heres the Real Global Economic Outlook.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/CHRONOLOGY-Microsofts path to Windows 8.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/CHRONOLOGY-Microsofts path to Windows 8.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Cisco CEO John Chambers Live From The Gartner Conference.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Cisco CEO John Chambers Live From The Gartner Conference.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/DuPont Takes It On The Chin As It Misses Estimates And Cuts Guidance.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/DuPont Takes It On The Chin As It Misses Estimates And Cuts Guidance.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/EBay And IBM Why MainStay Fund Boosted Its Stakes.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/EBay And IBM Why MainStay Fund Boosted Its Stakes.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Facebook Shares Get A Big Earnings Lift.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Facebook Shares Get A Big Earnings Lift.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Gartner Top 10 Strategic Technology Trends For 2013.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Gartner Top 10 Strategic Technology Trends For 2013.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Google Current Dip A Gold Mine For Investors.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Google Current Dip A Gold Mine For Investors.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Hewlett-Packard Aims At Top Ultrabook Seller In China.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Hewlett-Packard Aims At Top Ultrabook Seller In China.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/IBM Announces Student Winners of Watson Case Competition from Cornell University.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/IBM Announces Student Winners of Watson Case Competition from Cornell University.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/International Business Machines Corp Stock Buy Recommendation Reiterated IBM.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/International Business Machines Corp Stock Buy Recommendation Reiterated IBM.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Is Hewlett-Packard One of the Dows Best Brands.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Is Hewlett-Packard One of the Dows Best Brands.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Is The Tech Sector Going To Undergo Large Changes.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Made In IBM Labs New IBM Analytics Software Helps Doctors Transition To Predictive Healthcare.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Made In IBM Labs New IBM Analytics Software Helps Doctors Transition To Predictive Healthcare.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Market Carnage Continues Where Can the Market Find Its Footing.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Market Carnage Continues Where Can the Market Find Its Footing.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/New Top Stock Picks from Navellier amp Associates.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/New Top Stock Picks from Navellier amp Associates.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/The real growth of corporate America.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/The real growth of corporate America.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/This IT Sector is Still Showing Strong Growth.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/This IT Sector is Still Showing Strong Growth.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/UPDATE 2-Tieto raises profit outlook as overhaul bears fruit.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/UPDATE 2-Tieto raises profit outlook as overhaul bears fruit.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/UPDATE 3-Xerox trims earnings forecast shares fall.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/UPDATE 3-Xerox trims earnings forecast shares fall.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Update Heres Gartners List Of 6 Strategic IT Vendors.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Update Heres Gartners List Of 6 Strategic IT Vendors.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/US stocks retreat sharply on earnings.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/US stocks retreat sharply on earnings.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Xerox trims earnings forecast shares fall.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-23/Xerox trims earnings forecast shares fall.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/4 Dow Spotlight Stocks Finishing Wednesday in the Red.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/4 Dow Spotlight Stocks Finishing Wednesday in the Red.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/After Buying Buddy Media Salesforce Lays Off About 100.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/After Buying Buddy Media Salesforce Lays Off About 100.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/A look at recent tech-industry earnings.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Breaking Down the Dow Top Weighted Names Are This Years Zombies.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Buffett Eager for Another Big Deal.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Business Computing 101 2 Ways to Play this Sector.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Business Computing 101 2 Ways to Play this Sector.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Buy or Sell After This Management Shakeup.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Buy or Sell After This Management Shakeup.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Cisco Down 3 -- Thanks for Nothing Juniper.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Cisco Down 3 -- Thanks for Nothing Juniper.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Earnings Preview CA Inc.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Earnings Preview CA Inc.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/EMC Cuts 2012 Outlook and Misses Profit Forecast.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/EMC Cuts 2012 Outlook and Misses Profit Forecast.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/EMC Misses 3Q Estimates.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/EMC Misses 3Q Estimates.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Emerging Technology Drives Big Growth SAP Co-CEO.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Emerging Technology Drives Big Growth SAP Co-CEO.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Energy Management Software Invest in Brands.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Facebook Shows Mobile Strength With These Two Charts.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Facebook Shows Mobile Strength With These Two Charts.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Final Glance Computer companies.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Follow Buffett On IBM Youd Only Be 14 Late.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Follow Buffett On IBM Youd Only Be 14 Late.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Gartner A Dozen IT Predictions For 2013 And Beyond.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Gartner A Dozen IT Predictions For 2013 And Beyond.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Lenovo Looks to New Markets.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Lenovo Looks to New Markets.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Midday Glance Computer companies.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Minyanvilles T3 Daily Recap Where Could Traders Look to Buy the Dip.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Minyanvilles T3 Daily Recap Where Could Traders Look to Buy the Dip.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/See How International Business Machines Ranks Among Analysts Top Dow 30 Picks.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/See How International Business Machines Ranks Among Analysts Top Dow 30 Picks.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Stocks Show Limits of Money Printing.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Stocks Show Limits of Money Printing.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Symantec Sales Forecast Tops Estimates on Corporate Demand.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/The US Economys Personality Disorder.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/The US Economys Personality Disorder.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/UPDATE 2-EMC profit misses estimates 2012 outlook is cut.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/UPDATE 3-EMC profit misses estimates cuts 2012 outlook shares fall.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/UPDATE 3-EMC profit misses estimates cuts 2012 outlook shares fall.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Wall Street Transcript Interview with Kaveh Safavi MD the Managing Director and Health Industry Lead for North America for Accenture plc ACN.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Wall Street Transcript Interview with Kaveh Safavi MD the Managing Director and Health Industry Lead for North America for Accenture plc ACN.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Whats Causing These Dow Stocks to Slide Lower.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Whats Causing These Dow Stocks to Slide Lower.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Which Sectors Are Still Safe.dat
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-24/Which Sectors Are Still Safe.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-25/3 Keys To Compete In Todays Economy From Former IBM Chief.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-25/IBM Establishes the Smarter Energy Research Institute to Advance the Utility of the Future.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-25/IBM Opens Fifth Mexican Branch in City of Toluca.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-25/Robert E Watson the President and Chief Executive Officer of Streamline Health Inc STRM Interviews with the Wall Street Transcript.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-25/Top Stock Picks in Health Care IT Sector from Stifel Nicolaus amp Company an Exclusive Wall Street Transcript Interview.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-26/Analysis This earnings season more global means more pain.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-26/CAs Shares Fall After Company Lowers 2013 Sales Forecast.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-26/Dow Today International Business Machines IBM Leads The Day Higher Travelers Companies TRV Lags.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-26/From text to touch a look at Microsoft systems.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-26/Intel Blew Its Mobile Business - Or Did It.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-26/Mixed 2Q for CA Guides Lower.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-26/Not Even EMC Is Immune To Tech Headwinds.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-26/QLIK Drops 8 More Competition from Tableau SAP Etc Says FBN.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-26/The Community College of Rhode Island and Gwinnett County Public Schools Help Improve Student Performance with IBM Smarter Education Solution.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-26/The Dows Cautious Approach to the Weekend.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-26/US stocks finish with weekly losses.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-26/Women in power Collaborate or lead.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-27/Caterpillar Heres the Real Global Economic Outlook.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-27/Corporate Earnings and GDP Growth Part Ways.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-27/Dow Jones 30 Week in Review Microsoft Unveils Surface Visa Nabs JPMorgan Exec.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-28/IBM Reports Nanotube Chip Breakthrough.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-28/Made in IBM Labs Researchers Demonstrate Initial Steps toward Commercial Fabrication of Carbon Nanotubes as a Successor to Silicon.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-28/Poll Scant demand for Microsofts Windows 8.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Burger Kings lower-sales strategy Business hunkers down for storm.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Buy IBM For Likely Upside Driven By Dividend Growth.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Buying This Telecom Stock Could Hurt Your Portfolio.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/CommVault Earnings Soar On Big Data Software Demand.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Execution Machine Doron Kempels Six Keys To Getting Stuff Done.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/How nanotechnology could speed up IBM.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/HP to debut new printers as part of turnaround effort.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/IBM Shows That Moores Law Lives.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Infosys Continuing to Hold Serve.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Ingram Beats Outlook Cautious.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Is This the End of the Road for Quantum.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Markets Closed Netflix Rumors IBMs Breakthrough Morning Buzzers.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Microsoft Seeks an Edge in Analyzing Big Data.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Sandy The Last Storm of the Pre-Cloud Trading Era.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/SolarWinds Beats Estimates.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/SolarWinds tops Forbes magazine list.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Starboard Keeps Buying Progress Software.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Thane Bharat Sahakari Bank Selects IBM PureSystems to Improve Client Experience Server Utilization.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/The Morning Download Innovating the Future CIO.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/The Most Dangerous Trait of Celebrated Leaders.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Tips for getting your CEO ready for social media.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Victims Of The Changing Tech Landscape.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Wall Street plans quick Sandy bounceback.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Wall Street Transcript Interview with the Chief Executive Officer of Empirical Wealth Management An Evidence-Based Approach to Addressing Risk and Return in the Markets.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-29/Zynga Hacked By Anonymous IBMs Scientific Breakthrough Tech Business Roundup.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-30/3 Stocks Near 52-Week Lows Worth Buying.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-30/Cleveland Clinic and IBM Work to Advance Watsons Use in the Medical Training Field.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-30/IBM Authorizes 5 Billion Buyback Declares Dividend.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-30/IBM BOARD APPROVES QUARTERLY CASH DIVIDEND AUTHORIZES 5 BILLION FOR STOCK REPURCHASE.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-30/IBM Board Increases Share Buyback Fund 75 to 117 Billion.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-30/IBM Boosts Buyback Program By 5 Billion.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-30/IBM may buy back additional 5B in stock.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-30/IBMs Watson Goes to Medical School.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-30/INTERNATIONAL BUSINESS MACHINES CORP Files SEC form 10-Q Quarterly Report.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-30/Riverbed An Accretive Deal To Rule The Market.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-30/Technical Analysis on Teradata Corp and International Business Machines Corp - Diversified Computer System Companies Innovating and Expanding.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-30/This is the Drop You Were Waiting For.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-30/What to Do When the Markets Reopen.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-30/Why an IRA Tax Deduction May Not Be Your Best Move.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-30/Will These 5 Tech Stocks Rally Into January.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-31/Apple IBM SAP And HP Not Just Numbers - Companys Vision Strategy And Goals Matter.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-31/Are Investors Finally Getting Microsoft.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-31/Despite Turmoil H-P Customers Keep The Faith.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-31/Dow Today International Business Machines IBM Higher.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-31/Heres What Googles SWOT Analysis Revealed.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-31/Hurricane Sandy Broke Only 10 Percent of New York Areas Internet.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-31/IBM Sets Additional 5B in Buybacks Upside Limited Says Wells.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-31/Midday Movers AAPL FB OC amp More.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-31/Opening Bell Buzz Disney Plans New Star Wars Release for 2015.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-31/Quantum Continues to Incur Loss.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-31/SaaS Adoption Accelerates Goes Global in the Enterprise.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-31/video Cramers Six in 60 Westport Innovations.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-31/Which High-Tech Dow Stock Has the Worlds Best Brand.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-31/Why These Dow Stocks Sink or Swim With Hurricane Sandy.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-10-31/Will IBM Turn the Chip Industry On Its Head.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/1 Major Clue That Apple Is Expecting a Blowout Next Quarter.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/5 Billion More Reasons to Love This IT Powerhouse.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/After Sandy Manual Labor Keeps Cloud Services Running.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/Big Blues Bet on Big Data.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/Hewlett-Packard Names Martin Fink CTO and Director of HP Labs.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/IBM We Can See Why Buffett Tried To Keep This A Secret Last Year.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/Insight Crunching the numbers to boost odds against cancer.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/INSIGHT-Crunching the numbers to boost odds against cancer.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/International Business Machines Corp IBM Todays Featured Computer Hardware Winner.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/Is Oracle a Screaming Buy.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/Leading Pakistan Mobile Banking Provider Uses IBM Cloud to Expand Delivery of Secure Financial Services on Mobile Phones.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/Nice to ClickSoftware Jump Pares Monthly Slump Israel Overnight.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/Partnership Power for Startups.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/Road show to reveal Research Triangle Parks future.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/Should You Buy These Wall Street Favorites.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/Storage Startup Box Attracts Business Enterprise Use.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/Teradata Q3 Results Mixed With A Cautious Outlook.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-01/Warren Buffetts Largest Holdings Underperforming Is It Time To Buy.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/5 Stocks For A Great 2013 Growth Portfolio.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/Apples losses highlight down day for tech stocks.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/Berkshire Hathaway buying Oriental Trading.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/BMCs 2Q EPS Beats by a Penny.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/CIOs Can Help Cities and Companies Find Their Ideal Scale.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/Dow Today McDonalds Corporation MCD Leads The Day Higher International Business Machines IBM Lags.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/Early Glance Computer companies.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/Final Glance Computer companies.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/Getting the Most Green Bang for Your Greenbacks.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/Hiring for GMs Austin tech center to be done by January.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/INTERNATIONAL BUSINESS MACHINES CORP Financials.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/Microsoft vs Google trial raises concerns over courtroom secrecy.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/Microsoft vs Google trial raises concerns over secrecy.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/Midday Glance Computer companies.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/Oracle Director Sells 412K Shares and 3 Insider Trades to See Now.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/Rackspace Q3 Profit Seen Up 36 On Cloud Growth.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/RPT-Microsoft vs Google trial raises concerns over courtroom secrecy.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/RPT-UPDATE 1-Microsoft vs Google trial raises concerns over secrecy.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/Stocks Cascade Despite Surprising Jobs Growth.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/The Big Data Play That You Havent Heard Of.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/Top Insider Trades BlackRock and AGCO See Purchases.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-02/UPDATE 1-Microsoft vs Google trial raises concerns over secrecy.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-03/A Capitalists Dilemma Whoever Wins on Tuesday.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-04/IBM Mainframe Wont Die But Evolves.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-04/In China Human Costs Are Built Into an iPad.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-04/In Googles Inner Circle a Falling Number of Women.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-04/List of Global Brands Keeps Coke on Top and Apple Jumps Up.txt
+/home/stefaniezhao/development/python/tfidf/yahoo.finance/news/2012-11-04/Why I am Not Buying This Stocks Growth Story.txt
