@@ -4,7 +4,10 @@
 library(DMwR)
 data(GSPC)
 
-
+GSPC <- read.table('/home/stefaniezhao/development/git/analysis/R/stock/sp500.csv',
+          header=T,
+          dec='.',
+          na.strings=c('XXXXXXX'))
 
 ###################################################
 ### Handling time dependent data in R
@@ -125,7 +128,12 @@ addT.ind <- newTA(FUN=T.ind,col='red',legend='tgtRet')
 addAvgPrice(on=1)
 addT.ind()
 
-
+candleChart(last(IBM,'6 months'),theme='white',TA=NULL)
+avgPrice <- function(p) apply(HLC(p),1,mean)
+addAvgPrice <- newTA(FUN=avgPrice,col=1,legend='AvgPrice')
+addT.ind <- newTA(FUN=T.ind,col='red',legend='tgtRet')
+addAvgPrice(on=1)
+addT.ind()
 
 myATR <- function(x) ATR(HLC(x))[,'atr']
 mySMI <- function(x) SMI(HLC(x))[,'SMI']
@@ -156,7 +164,9 @@ rf <- buildModel(data.model,method='randomForest',
 
 ex.model <- specifyModel(T.ind(IBM) ~ Delt(Cl(IBM),k=1:3))
 data <- modelData(ex.model,data.window=c('2009-01-01','2009-08-10'))
-
+rf <- buildModel(data,method='randomForest',
+             training.per=c('2009-01-01','2009-08-10'),
+             ntree=50, importance=T)
 
 
 

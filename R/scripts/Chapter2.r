@@ -5,7 +5,7 @@ library(DMwR)
 head(algae)
 
 
-algae <- read.table('Analysis.txt',
+algae <- read.table('/home/stefaniezhao/development/git/analysis/R/algae/Analysis.txt',
           header=F,
           dec='.',
           col.names=c('season','size','speed','mxPH','mnO2','Cl',
@@ -105,7 +105,8 @@ algae[48,'mxPH'] <- mean(algae$mxPH,na.rm=T)
 
 
 algae[is.na(algae$Chla),'Chla'] <- median(algae$Chla,na.rm=T)
-
+algae[is.na(algae$Cl),'Cl'] <- median(algae$Cl,na.rm=T)
+algae[is.na(algae$mnO2),'mnO2'] <- median(algae$mnO2,na.rm=T)
 
 data(algae)
 algae <- algae[-manyNAs(algae),]
@@ -244,20 +245,24 @@ rt.predictions.a1 <- predict(rt.a1,algae)
                 mean((mean(algae[,'a1'])-algae[,'a1'])^2))
 (nmse.a1.rt <- mean((rt.predictions.a1-algae[,'a1'])^2)/
                 mean((mean(algae[,'a1'])-algae[,'a1'])^2))
+(nmse.sensible.a1.lm <- mean((sensible.lm.predictions.a1-algae[,'a1'])^2)/
+                mean((mean(algae[,'a1'])-algae[,'a1'])^2))
 
 
 regr.eval(algae[,'a1'],rt.predictions.a1,train.y=algae[,'a1'])
 
 
-old.par <- par(mfrow=c(1,2))
+old.par <- par(mfrow=c(1,3))
 plot(lm.predictions.a1,algae[,'a1'],main="Linear Model",
      xlab="Predictions",ylab="True Values")
 abline(0,1,lty=2)
 plot(rt.predictions.a1,algae[,'a1'],main="Regression Tree",
      xlab="Predictions",ylab="True Values")
 abline(0,1,lty=2)
+plot(sensible.lm.predictions.a1,algae[,'a1'],main="Refined Linear Model",
+     xlab="Predictions",ylab="True Values")
+abline(0,1,lty=2)
 par(old.par)
-
 
 
 plot(lm.predictions.a1,algae[,'a1'],main="Linear Model",
