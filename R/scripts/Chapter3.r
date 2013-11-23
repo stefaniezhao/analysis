@@ -164,10 +164,10 @@ rf <- buildModel(data.model,method='randomForest',
 
 ex.model <- specifyModel(T.ind(IBM) ~ Delt(Cl(IBM),k=1:3))
 data <- modelData(ex.model,data.window=c('2009-01-01','2009-08-10'))
-rf <- buildModel(data,method='randomForest',
+rf <- buildModel(ex.model,method='randomForest',
              training.per=c('2009-01-01','2009-08-10'),
              ntree=50, importance=T)
-
+data.model <- specifyModel(T.ind(IBM) ~ Delt(Cl(IBM),k=1:3) + myATR(IBM) + myADX(IBM) + myVolat(IBM)  + myMACD(IBM) + runMean(Cl(IBM)))
 
 
 varImpPlot(rf@fitted.model,type=1)
@@ -175,7 +175,7 @@ varImpPlot(rf@fitted.model,type=1)
 
 imp <- importance(rf@fitted.model,type=1)
 rownames(imp)[which(imp > 10)]
-
+colnames(GSPC) <- c("Open", "High", "Low", "Close","Volume","Adjusted")
 
 data.model <- specifyModel(T.ind(GSPC) ~ Delt(Cl(GSPC),k=1) + myATR(GSPC) + myADX(GSPC) +    myEMV(GSPC) + myVolat(GSPC)  + myMACD(GSPC) + mySAR(GSPC) + runMean(Cl(GSPC)) )
 
