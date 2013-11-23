@@ -1,0 +1,10 @@
+log sample1
+Day,User,Function Category, Detail Function, Times, StayMins, BuyTimes[Only for WealthMgt Function]
+2013-04-01 , a25601208 , basic , transferMoney , 5 , 10
+2013-04-01 , a25601208 , WealthMgt , nationalDebt , 8 , 3 , 2
+
+log sample2
+Times, WealthMgt products, action sequence
+8224 , preciousMetal-74233 , ['query', 'buy']
+8552 , nationalDebt-63456 , ['view', 'accountOverview', 'assetsReport', 'assetsReport']
+
